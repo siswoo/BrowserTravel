@@ -1,0 +1,30 @@
+$(document).ready(function(){
+    /*
+    if(hidden_ubicacion=="welcome"){
+        $('#navbar-home').attr('href','welcome.php');
+        $('#a-modelo').attr('href','modelo/index.php');
+        $('#a-modelo2').attr('href','modelo/index2.php');
+        $('#a-roles').attr('href','roles/index.php');
+        $('#a-seguridad').attr('href','seguridad/index.php');
+        $('#a-pasante').attr('href','pasante/index.php');
+        $('#a-usuario').attr('href','usuarios/index.php');
+        $('#a-Rinicio').attr('href','reportes/reporte_inicio.php');
+        $('#a-monitores').attr('href','monitores/index.php');
+        $('#a-reportes').attr('href','reportes/index.php');
+        $('#a-pagos').attr('href','pagos/index.php');
+        $('#a-erick').attr('href','erick/index.php');
+        $('#a-community').attr('href','community/index.php');
+        $('#a-consultas').attr('href','consultas/index.php');
+        $('#a-pqr').attr('href','pqr/index.php');
+        $('#a-admin').attr('href','admin/index.php');
+        $('#a-personal').attr('href','personal/index.php');
+        $('#a-nomina').attr('href','nomina/index.php');
+        $('#a-cargos').attr('href','cargos/index.php');
+        $('#a-funciones').attr('href','funciones/index.php');
+        $('#a-residuos').attr('href','residuos/index.php');
+        $('#navbar-cerrarSesion').attr('href','script/cerrar_sesion.php');
+    }else{
+        $('#li-'+hidden_ubicacion).addClass('navbar-active');
+    }
+    */
+});
